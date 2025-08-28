@@ -1,4 +1,5 @@
-Bankruptcy Prediction
+
+
 📌 Project Summary
 
 This project investigates the use of machine learning algorithms for predicting the likelihood of company bankruptcy. Business failure has significant implications for creditors, investors, and employees, which makes the development of reliable prediction models vital for financial risk management.
